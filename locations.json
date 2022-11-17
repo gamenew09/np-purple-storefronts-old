@@ -1,0 +1,350 @@
+[
+	{
+		"id": 1000,
+		"type": "Automotive",
+		"title": "1 Stop Shop",
+		"notes": "A place for your automotive needs!",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -59.732, "lng": -55.176}
+		],
+		"images": [
+			{
+				"headline": "Frontside of 1 Stop Shop",
+				"darkText": true,
+				"url": "https://i.redd.it/omkruked1lj81.png"
+			}
+		]
+	},
+	{
+		"id": 1001,
+		"type": "Automotive",
+		"title": "The Pit Stop Minimart",
+		"notes": "A mini-mart that sells Tire Repair Kits, Local Car Parts, Car Polish, Lard Car Polish, First Aid Kits, and Radios!",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -66.589, "lng": -34.667}
+		],
+		"images": [
+			{
+				"headline": "Frontside",
+				"darkText": false,
+				"url": "https://i.imgur.com/jX4O6nS.jpeg"
+			}
+		]
+	},
+	{
+		"id": 1002,
+		"type": "Automotive",
+		"title": "O'Scotty Auto Parts",
+		"notes": "O'Scotty Auto Parts is a small shop that offers Advanced, Regular, Body, and Tire Repair Kits alongside Imported Performance Parts for your vehicle!",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -68.417, "lng": -5.596}
+		],
+		"images": [
+			{
+				"headline": "Advertisement",
+				"darkText": false,
+				"url": "https://i.imgur.com/s2wWxiL.png"
+			},
+			{
+				"headline": "Desk",
+				"darkText": false,
+				"url": "https://i.imgur.com/EFZXGh3.jpeg"
+			}
+		]
+	},
+	{
+		"id": 1003,
+		"type": "Automotive",
+		"title": "La Mesa Ottos Mini-Mart",
+		"notes": "La Mesa Ottos Mini-Mart is a tool shop that offers First Aid Kits, Tire Repair Kit, and Body Repair Kits branded in their iconic blue.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -64.266, "lng": 8.090}
+		],
+		"images": [
+			{
+				"headline": "Advertisement",
+				"darkText": true,
+				"url": "https://i.imgur.com/1JXScIH.png"
+			},
+			{
+				"headline": "Outside",
+				"darkText": false,
+				"url": "https://i.imgur.com/whD38Pr.jpeg"
+			}
+		]
+	},
+	{
+		"id": 2000,
+		"type": "Food",
+		"title": "Shinto",
+		"notes": "A Japanese restaurant serving sushi, noodles, sashimi, nigiri, soups, sides, deserts, drinks, and more! You are able to dine in at a table or reserve a private room for eating!",
+		"wiki_link": "",
+		"order": 0,
+		"codePointIcon": "\uea64",
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -64.240, "lng": -55.522}
+		],
+		"images": [
+			{
+				"headline": "Frontside of Shinto",
+				"url": "https://i.redd.it/omkruked1lj81.png"
+			}
+		]
+	},
+	{
+		"id": 2001,
+		"type": "Food",
+		"title": "Sugar & Spice",
+		"notes": "A cafe that has spiced baked goods, drinks, and coffee.",
+		"wiki_link": "",
+		"order": 0,
+		"codePointIcon": "\uea53",
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -59.105, "lng": 19.129}
+		],
+		"images": [
+			{
+				"headline": "Front",
+				"url": "https://i.imgur.com/3m4UObQ.jpeg"
+			}
+		]
+	}, 
+	{
+		"id": 2002,
+		"type": "Food",
+		"title": "The Mojito Inn",
+		"notes": "The Mojito Inn, owned by Marie Stone, is a chill tavern offering a multitude of food and drinks.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": 76.491, "lng": -18.453}
+		],
+		"images": [
+			{
+				"headline": "Frontside of S&S",
+				"url": "https://i.redd.it/omkruked1lj81.png"
+			}
+		]
+	},
+	{
+		"id": 2003,
+		"type": "Food",
+		"title": "Sweet Tooth",
+		"notes": "Sweet Tooth is a food establishment that has breakfast items along with some outliers, including, but not limited to, Kebabs, Sandwiches, and Chips.",
+		"wiki_link": "",
+		"order": 0,
+		"codePointIcon": "\uea54",
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -52.542, "lng": -30.955}
+		],
+		"images": [
+			{
+				"headline": "Frontside of Sweet Tooth",
+				"url": "https://i.imgur.com/NpjtqQy.jpeg"
+			},
+			{
+				"headline": "Kitchen",
+				"url": "https://i.imgur.com/0j3KVi1.jpeg"
+			},
+			{
+				"headline": "Coffee Dude",
+				"url": "https://i.imgur.com/CPvfEa3.jpeg"
+			},
+			{
+				"headline": "Stage #1",
+				"url": "https://i.imgur.com/2ctN9iM.jpeg"
+			}
+		]
+	},
+	{
+		"id": 3002,
+		"type": "General",
+		"title": "S&M",
+		"notes": "A BDSM shop that offers handcuffs, masquerade masks, feather ticklers, paddles, whips, and flowers for aftercare. Currently the Frontside of S&M is messed up.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -70.326, "lng": -5.222}
+		],
+		"images": [
+			{
+				"headline": "",
+				"url": "https://i.redd.it/omkruked1lj81.png"
+			}
+		]
+	},
+	{
+		"id": 3003,
+		"type": "General",
+		"title": "J's Player Card Collection",
+		"notes": "A spot to grab card packs that include your favorite Purple county residents!",
+		"wiki_link": "",
+		"order": 0,
+		"codePointIcon": "\ue41d",
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -68.223, "lng": -8.266}
+		],
+		"images": [
+			{
+				"headline": "Frontside of S&S",
+				"url": "https://i.redd.it/omkruked1lj81.png"
+			}
+		]
+	},
+	{
+		"id": 3004,
+		"type": "General",
+		"title": "City Gallery",
+		"notes": "A place to sell gems!",
+		"wiki_link": "",
+		"order": 0,
+		"codePointIcon": "\uead5",
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -56.229, "lng": -8.827}
+		],
+		"images": [
+			{
+				"headline": "Frontside of S&S",
+				"url": "https://i.redd.it/omkruked1lj81.png"
+			}
+		]
+	},
+	{
+		"id": 3005,
+		"type": "General",
+		"title": "走り屋 (Street Racing)",
+		"notes": "First Aid Kits, Radios, Plushies",
+		"wiki_link": "",
+		"order": 0,
+		"codePointIcon": "\ue546",
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -58.492, "lng": -73.643}
+		],
+		"images": [
+			{
+				"headline": "Frontside of S&S",
+				"url": "https://i.redd.it/omkruked1lj81.png"
+			}
+		]
+	},
+	{
+		"id": 3006,
+		"type": "General",
+		"title": "Sandy Shores Gas Station Storefront",
+		"notes": "Currently closed.",
+		"wiki_link": "",
+		"order": 0,
+		"codePointIcon": "\ue546",
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": 42.377, "lng": 42.945}
+		],
+		"images": [
+			{
+				"headline": "Frontside of S&S",
+				"url": "https://i.redd.it/omkruked1lj81.png"
+			}
+		]
+	},
+	{
+		"id": 4000,
+		"type": "Medical",
+		"title": "Smoke on the Water",
+		"notes": "Smoke on the Water is a smoke club where you can chill and smoke with friends in a hippie atmosphere. They sell varying kinds of weed, healing CBD cream, CBD infused cigarettes, cigars, empty bags, and high quality scales (themed & non-themed).",
+		"wiki_link": "",
+		"order": 0,
+		"codePointIcon": "\uf205",
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -48.646, "lng": -15.267}
+		],
+		"images": [
+			{
+				"headline": "Frontside of SOTW",
+				"url": "https://i.redd.it/omkruked1lj81.png"
+			}
+		]
+	},
+	{
+		"id": 4001,
+		"type": "Medical",
+		"title": "Hookah Palace",
+		"notes": "Sells Hookahs and stuff",
+		"wiki_link": "",
+		"order": 0,
+		"codePointIcon": "\uf205",
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -67.010, "lng": -14.802}
+		],
+		"images": [
+			{
+				"headline": "Frontside of SOTW",
+				"url": "https://i.redd.it/omkruked1lj81.png"
+			}
+		]
+	},
+	{
+		"id": 5000,
+		"type": "Ingredients",
+		"title": "The Grain of Truth",
+		"notes": "The Grain of Truth is a farmer focused shop offering ingredients, coffee, branded Watering Cans, and branded Hoes for farmers!",
+		"wiki_link": "",
+		"order": 0,
+		"codePointIcon": "\uea79",
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -58.232, "lng": -55.945}
+		],
+		"images": [
+			{
+				"headline": "Ouside of The Grain of Truth",
+				"url": "https://i.imgur.com/BeEdnUd.jpeg"
+			},
+			{
+				"headline": "Interior",
+				"url": "https://i.imgur.com/CnC47Ot.jpeg"
+			},
+			{
+				"headline": "Desk",
+				"url": "https://i.imgur.com/8m2RR6g.jpeg"
+			}
+		]
+	}
+]

@@ -14,8 +14,9 @@
 		"images": [
 			{
 				"headline": "Frontside of 1 Stop Shop",
+				"credits": "Chris Robin",
 				"darkText": true,
-				"url": "https://i.redd.it/omkruked1lj81.png"
+				"url": "https://i.imgur.com/C9al11n.jpg"
 			}
 		]
 	},
@@ -35,6 +36,7 @@
 			{
 				"headline": "Frontside",
 				"darkText": false,
+				"credits": "Roy Wilson",
 				"url": "https://i.imgur.com/jX4O6nS.jpeg"
 			}
 		]
@@ -51,18 +53,7 @@
 		"latlngarray": [
 			{"lat": -68.417, "lng": -5.596}
 		],
-		"images": [
-			{
-				"headline": "Advertisement",
-				"darkText": false,
-				"url": "https://i.imgur.com/s2wWxiL.png"
-			},
-			{
-				"headline": "Desk",
-				"darkText": false,
-				"url": "https://i.imgur.com/EFZXGh3.jpeg"
-			}
-		]
+		"images": []
 	},
 	{
 		"id": 1003,
@@ -78,13 +69,9 @@
 		],
 		"images": [
 			{
-				"headline": "Advertisement",
-				"darkText": true,
-				"url": "https://i.imgur.com/1JXScIH.png"
-			},
-			{
 				"headline": "Outside",
 				"darkText": false,
+				"credits": "Roy Wilson",
 				"url": "https://i.imgur.com/whD38Pr.jpeg"
 			}
 		]
@@ -104,8 +91,9 @@
 		],
 		"images": [
 			{
-				"headline": "Frontside of Shinto",
-				"url": "https://i.redd.it/omkruked1lj81.png"
+				"headline": "Front",
+				"credits": "Chris Robin",
+				"url": "https://i.imgur.com/2AbFyPe.jpg"
 			}
 		]
 	},
@@ -125,6 +113,7 @@
 		"images": [
 			{
 				"headline": "Front",
+				"credits": "Roy Wilson",
 				"url": "https://i.imgur.com/3m4UObQ.jpeg"
 			}
 		]
@@ -141,12 +130,7 @@
 		"latlngarray": [
 			{"lat": 76.491, "lng": -18.453}
 		],
-		"images": [
-			{
-				"headline": "Frontside of S&S",
-				"url": "https://i.redd.it/omkruked1lj81.png"
-			}
-		]
+		"images": []
 	},
 	{
 		"id": 2003,
@@ -164,19 +148,8 @@
 		"images": [
 			{
 				"headline": "Frontside of Sweet Tooth",
+				"credits": "Roy Wilson",
 				"url": "https://i.imgur.com/NpjtqQy.jpeg"
-			},
-			{
-				"headline": "Kitchen",
-				"url": "https://i.imgur.com/0j3KVi1.jpeg"
-			},
-			{
-				"headline": "Coffee Dude",
-				"url": "https://i.imgur.com/CPvfEa3.jpeg"
-			},
-			{
-				"headline": "Stage #1",
-				"url": "https://i.imgur.com/2ctN9iM.jpeg"
 			}
 		]
 	},
@@ -192,12 +165,7 @@
 		"latlngarray": [
 			{"lat": -70.326, "lng": -5.222}
 		],
-		"images": [
-			{
-				"headline": "",
-				"url": "https://i.redd.it/omkruked1lj81.png"
-			}
-		]
+		"images": []
 	},
 	{
 		"id": 3003,
@@ -214,8 +182,9 @@
 		],
 		"images": [
 			{
-				"headline": "Frontside of S&S",
-				"url": "https://i.redd.it/omkruked1lj81.png"
+				"headline": "Front",
+				"credits": "Chris Robin",
+				"url": "https://i.imgur.com/UZfefPC.jpg"
 			}
 		]
 	},
@@ -232,12 +201,7 @@
 		"latlngarray": [
 			{"lat": -56.229, "lng": -8.827}
 		],
-		"images": [
-			{
-				"headline": "Frontside of S&S",
-				"url": "https://i.redd.it/omkruked1lj81.png"
-			}
-		]
+		"images": []
 	},
 	{
 		"id": 3005,
@@ -252,12 +216,7 @@
 		"latlngarray": [
 			{"lat": -58.492, "lng": -73.643}
 		],
-		"images": [
-			{
-				"headline": "Frontside of S&S",
-				"url": "https://i.redd.it/omkruked1lj81.png"
-			}
-		]
+		"images": []
 	},
 	{
 		"id": 3006,
@@ -274,8 +233,9 @@
 		],
 		"images": [
 			{
-				"headline": "Frontside of S&S",
-				"url": "https://i.redd.it/omkruked1lj81.png"
+				"headline": "Front",
+				"credits": "Chris Robin",
+				"url": "https://i.imgur.com/mkJP2fk.jpg"
 			}
 		]
 	},
@@ -294,8 +254,9 @@
 		],
 		"images": [
 			{
-				"headline": "Frontside of SOTW",
-				"url": "https://i.redd.it/omkruked1lj81.png"
+				"headline": "Front",
+				"credits": "Chris Robin",
+				"url": "https://i.imgur.com/WCrIJj6.jpg"
 			}
 		]
 	},
@@ -312,12 +273,7 @@
 		"latlngarray": [
 			{"lat": -67.010, "lng": -14.802}
 		],
-		"images": [
-			{
-				"headline": "Frontside of SOTW",
-				"url": "https://i.redd.it/omkruked1lj81.png"
-			}
-		]
+		"images": []
 	},
 	{
 		"id": 5000,
@@ -334,17 +290,27 @@
 		],
 		"images": [
 			{
-				"headline": "Ouside of The Grain of Truth",
+				"headline": "Outside of The Grain of Truth",
+				"credits":"Roy Wilson",
 				"url": "https://i.imgur.com/BeEdnUd.jpeg"
-			},
-			{
-				"headline": "Interior",
-				"url": "https://i.imgur.com/CnC47Ot.jpeg"
-			},
-			{
-				"headline": "Desk",
-				"url": "https://i.imgur.com/8m2RR6g.jpeg"
 			}
+		]
+	},
+	{
+		"id": 6000,
+		"type": "Materials",
+		"title": "Tom & Hobbler's Containers: A Hobbler's Materials Company",
+		"notes": "Tom & Hobbler's Containers sells materials for customers to craft with!",
+		"wiki_link": "",
+		"order": 0,
+		"codePointIcon": "\ue760",
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -81.822, "lng": -7.434}
+		],
+		"images": [
+			
 		]
 	}
 ]

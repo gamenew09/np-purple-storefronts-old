@@ -35,6 +35,13 @@ const MapCategories = [
 		type: 'General',
 		enabled: true,
 	},
+	{
+		name: 'Materials',
+		icon: 'radar/radar_bar.png',
+		codePointIcon: '\ue760',
+		type: 'General',
+		enabled: true,
+	},
 ];
 
 $(function() {

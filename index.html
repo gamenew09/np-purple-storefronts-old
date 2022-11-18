@@ -129,12 +129,19 @@
 							</div>
 							<div class="carousel-caption">
 								{{#if this/darkText}}
-								<p class="font-weight-bold text-dark">
+								<h6 class="font-weight-bold text-dark">
 								{{else}}
-								<p class="font-weight-bold text-light">
+								<h6 class="font-weight-bold text-light">
 								{{/if}}
 									{{this.headline}}
-								</p>
+								</h6>
+								{{#if this/darkText}}
+								<p class="text-dark">
+								{{else}}
+								<p class="text-light">
+								{{/if}}
+									Picture Taken by {{this.credits}}
+								</h6>
 							</div>
 							</div>
 							{{/each}}

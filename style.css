@@ -31,6 +31,14 @@ header li {
 	overflow: hidden;
 }
 
+/* CSS from https://scottdorman.blog/2019/03/02/bootstrap-carousel-caption-placement/ (and the carousel implementation in the HTML is based on this too) */
+.carousel-caption {
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+
 header li:last-child {
 	margin-right: 0;
 }

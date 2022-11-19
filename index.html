@@ -109,7 +109,7 @@
 						<!--Carousel Wrapper-->
 						<div id="carousel-moreinfo" class="carousel slide carousel-fade" data-ride="carousel">
 						<!--Indicators-->
-						<ol class="carousel-indicators">
+						<ol class="carousel-indicators my-4">
 							{{#each images}}
 							<li data-target="#carousel-moreinfo" data-slide-to="{{@index}}" {{#if @first}}class="active"{{/if}}></li>
 							{{/each}}
@@ -127,19 +127,11 @@
 								<img class="d-block w-100" src="{{this.url}}" alt="{{this.headline}}">
 								<div class="mask rgba-black-light"></div>
 							</div>
-							<div class="carousel-caption">
-								{{#if this/darkText}}
-								<h6 class="font-weight-bold text-dark">
-								{{else}}
+							<div class="carousel-caption bg-dark mb-4">
 								<h6 class="font-weight-bold text-light">
-								{{/if}}
 									{{this.headline}} <a href="{{this.url}}" data-toggle="tooltip" data-placement="top" title="Open Image in New Tab" target="_blank"  rel="noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
 								</h6>
-								{{#if this/darkText}}
-								<p class="text-dark">
-								{{else}}
 								<p class="text-light">
-								{{/if}}
 									Picture Taken by {{this.credits}}
 								</h6>
 							</div>

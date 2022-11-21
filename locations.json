@@ -77,6 +77,28 @@
 		]
 	},
 	{
+		"id": 1004,
+		"type": "Automotive",
+		"title": "Mirror Park Minimart",
+		"notes": "A minimart that offers ERP Radios, Healing Lip Balms, Tire Pumps, Lard Polish, 3 Day Polish, and a limited quantity \"FIRST\" Plate collectible!",
+		"wiki_link": "",
+		"order": 0,
+		"codePointIcon": "\ue546",
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -57.866, "lng": 19.073}
+		],
+		"images": [
+			{
+				"headline": "Outside",
+				"darkText": false,
+				"credits": "Roy Wilson",
+				"url": "https://i.imgur.com/CYkgMjv.jpeg"
+			}
+		]
+	},
+	{
 		"id": 2000,
 		"type": "Food",
 		"title": "Shinto",

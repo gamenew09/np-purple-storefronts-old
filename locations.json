@@ -264,27 +264,6 @@
 	{
 		"id": 4000,
 		"type": "Medical",
-		"title": "Smoke on the Water",
-		"notes": "A smoke club where you can chill and smoke with friends in a hippie atmosphere. They sell varying kinds of weed, healing CBD cream, CBD infused cigarettes, cigars, empty bags, and high quality scales (themed & non-themed).",
-		"wiki_link": "",
-		"order": 0,
-		"codePointIcon": "\uf205",
-		"strokecolor": "0080FF",
-		"fillcolor": "0080FF",
-		"latlngarray": [
-			{"lat": -48.646, "lng": -15.267}
-		],
-		"images": [
-			{
-				"headline": "Front",
-				"credits": "Chris Robin",
-				"url": "https://i.imgur.com/WCrIJj6.jpg"
-			}
-		]
-	},
-	{
-		"id": 4001,
-		"type": "Medical",
 		"title": "Hookah Palace",
 		"notes": "A smoking oriented storefront that offers healing Snus, Weighed Hookah Tobacco, and flavored hookahs for stress relief.",
 		"wiki_link": "",

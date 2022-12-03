@@ -9,26 +9,32 @@ const categories = [
 	},
 	/* {
 		name: "Caffeine",
+		codePointIcon: "\uea0b",
 		icon: "radar/radar_bar.png"
 	},
 	{
 		name: "Medical",
+		codePointIcon: "\uf109",
 		icon: "radar/radar_hospital.png"
 	},
 	{
 		name: "Surplus",
+		codePointIcon: "\ue9e0",
 		icon: "radar/radar_bar.png"
 	},
 	{
 		name: "Electronics",
+		codePointIcon: "\ue325",
 		icon: "radar/radar_bar.png"
 	},
 	{
 		name: "Hardware & Tools",
+		codePointIcon: "\uea3c",
 		icon: "radar/radar_bar.png"
 	},
 	{
 		name: "Outdoor & Survival",
+		codePointIcon: "\ue50a",
 		icon: "radar/radar_bar.png"
 	}, */
 	{ // yep
@@ -38,6 +44,7 @@ const categories = [
 	},
 	/* {
 		name: "Sporting Goods",
+		codePointIcon: "\uea2f",
 		icon: "radar/radar_bar.png"
 	}, */
 	{  // yep
@@ -47,6 +54,7 @@ const categories = [
 	},
 	/* {
 		name: "Event Supplies",
+		codePointIcon: "\uea65",
 		icon: "radar/radar_bar.png"
 	}, */
 	{  // yep
@@ -61,6 +69,7 @@ const categories = [
 	},
 	/* {
 		name: "Dispensary",
+		codePointIcon: '\uf8aa',
 		icon: "radar/radar_hospital.png"
 	}, */
 	{  // yep
@@ -75,6 +84,7 @@ const categories = [
 	},
 	/* {
 		name: "Bar",
+		codePointIcon: "\uea60",
 		icon: "radar/radar_bar.png"
 	}, */
 	{  // yep

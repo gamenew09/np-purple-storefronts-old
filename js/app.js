@@ -69,7 +69,7 @@ const categories = [
 	},
 	/* {
 		name: "Dispensary",
-		codePointIcon: '\uf8aa',
+		codePointIcon: '\uf205',
 		icon: "radar/radar_hospital.png"
 	}, */
 	{  // yep

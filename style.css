@@ -6,6 +6,10 @@ li { list-style: none; }
 .right { float: right; }
 .notes { font-size: 1rem; }
 
+.googleIcon {
+	font-family: "Material Icons";
+}
+
 header {
 	position: absolute;
 	top: 0;

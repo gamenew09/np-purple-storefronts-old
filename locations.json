@@ -100,7 +100,7 @@
 	},
 	{
 		"id": 2000,
-		"type": "Food",
+		"type": "Restaurant",
 		"title": "Shinto",
 		"notes": "A Japanese restaurant serving sushi, noodles, sashimi, nigiri, soups, sides, deserts, drinks, and more! You are able to dine in at a table or reserve a private room for eating!",
 		"wiki_link": "",
@@ -121,7 +121,7 @@
 	},
 	{
 		"id": 2001,
-		"type": "Food",
+		"type": "Coffee Shop",
 		"title": "Sugar & Spice",
 		"notes": "A cafe that sells spiced baked goods, drinks, and coffee.",
 		"wiki_link": "",
@@ -142,7 +142,7 @@
 	}, 
 	{
 		"id": 2002,
-		"type": "Food",
+		"type": "Restaurant",
 		"title": "The Mojito Inn",
 		"notes": "A chill tavern offering a multitude of food and drinks.",
 		"wiki_link": "",
@@ -156,7 +156,7 @@
 	},
 	{
 		"id": 2003,
-		"type": "Food",
+		"type": "Coffee Shop",
 		"title": "Sweet Tooth",
 		"notes": "A food establishment that has breakfast items along with some outliers, including, but not limited to, Kebabs, Sandwiches, and Chips.",
 		"wiki_link": "",
@@ -212,7 +212,7 @@
 	},
 	{
 		"id": 3004,
-		"type": "General",
+		"type": "Jewelry",
 		"title": "City Gallery",
 		"notes": "Sells Jade Healing Stones and engagement rings, also buys gems sometimes.",
 		"wiki_link": "",
@@ -242,7 +242,7 @@
 	},
 	{
 		"id": 3006,
-		"type": "General",
+		"type": "Automotive",
 		"title": "Sandy Shores Gas Station Storefront",
 		"notes": "Offers radios, repair kits, and first aid kits on-the-go!",
 		"wiki_link": "",
@@ -263,7 +263,7 @@
 	},
 	{
 		"id": 4000,
-		"type": "Medical",
+		"type": "Smoke Shop",
 		"title": "Hookah Palace",
 		"notes": "A smoking oriented storefront that offers healing Snus, Weighed Hookah Tobacco, and flavored hookahs for stress relief.",
 		"wiki_link": "",
@@ -278,7 +278,7 @@
 	},
 	{
 		"id": 5000,
-		"type": "Ingredients",
+		"type": "Agriculture",
 		"title": "The Grain of Truth",
 		"notes": "A farmer focused shop offering ingredients, coffee, branded Watering Cans, and branded Hoes for farmers!",
 		"wiki_link": "",

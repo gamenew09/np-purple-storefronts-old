@@ -1,48 +1,91 @@
 let labelIndex = 0;
 //
 
-const MapCategories = [
-	{
-		name: 'General',
-		icon: 'radar/radar_police_station.png',
-		type: 'General',
-		enabled: true,
+const categories = [
+	{  // yep
+		name: "Smoke Shop",
+		codePointIcon: "\ueb4b",
+		icon: "radar/radar_bar.png"
+	},
+	/* {
+		name: "Caffeine",
+		icon: "radar/radar_bar.png"
 	},
 	{
-		name: 'Automotive',
-		icon: 'radar/radar_acsr_race_hotring.png',
+		name: "Medical",
+		icon: "radar/radar_hospital.png"
+	},
+	{
+		name: "Surplus",
+		icon: "radar/radar_bar.png"
+	},
+	{
+		name: "Electronics",
+		icon: "radar/radar_bar.png"
+	},
+	{
+		name: "Hardware & Tools",
+		icon: "radar/radar_bar.png"
+	},
+	{
+		name: "Outdoor & Survival",
+		icon: "radar/radar_bar.png"
+	}, */
+	{ // yep
+		name: "Automotive",
+		icon: "radar/radar_bar.png",
 		codePointIcon: '\uf100',
-		type: 'General',
-		enabled: true,
 	},
-	{
-		name: 'Medical',
-		icon: 'radar/radar_hospital.png',
-		type: 'General',
-		enabled: true,
+	/* {
+		name: "Sporting Goods",
+		icon: "radar/radar_bar.png"
+	}, */
+	{  // yep
+		name: "Agriculture",
+		icon: "radar/radar_bar.png",
+		codePointIcon: '\ueacc'
 	},
-	{
-		name: 'Food',
-		icon: 'radar/radar_bar.png',
-		codePointIcon: '\ue56c',
-		type: 'General',
-		enabled: true,
+	/* {
+		name: "Event Supplies",
+		icon: "radar/radar_bar.png"
+	}, */
+	{  // yep
+		name: "Jewelry",
+		codePointIcon: "\uead5",
+		icon: "radar/radar_bar.png"
 	},
-	{
-		name: 'Ingredients',
-		icon: 'radar/radar_bar.png',
-		codePointIcon: '\ueacc',
-		type: 'General',
-		enabled: true,
-	},
-	{
-		name: 'Materials',
-		icon: 'radar/radar_bar.png',
+	{ // yep
+		name: "Materials",
+		icon: "radar/radar_garage.png",
 		codePointIcon: '\ue760',
-		type: 'General',
-		enabled: true,
 	},
+	/* {
+		name: "Dispensary",
+		icon: "radar/radar_hospital.png"
+	}, */
+	{  // yep
+		name: "Restaurant",
+		icon: "radar/radar_bar.png",
+		codePointIcon: '\ue56c'
+	},
+	{  // yep
+		name: "Coffee Shop",
+		codePointIcon: "\ue541",
+		icon: "radar/radar_bar.png"
+	},
+	/* {
+		name: "Bar",
+		icon: "radar/radar_bar.png"
+	}, */
+	{  // yep
+		name: "General",
+		codePointIcon: "\uea12",
+		icon: "radar/radar_police_station.png"
+	}
 ];
+
+
+const MapCategories = categories.map((cat) => ({enabled: true, type: "Storefronts", ...cat})).sort((a, b) => a.name > b.name)
 
 $(function() {
 	var showCoordinations = true;

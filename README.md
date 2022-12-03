@@ -46,3 +46,25 @@ To [gta5-map](https://github.com/gta5-map) for [their work](https://github.com/g
 By starring this repository you attract contributors to invest time into maintaing it.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=gamenew09/np-purple-storefronts&type=Date)](https://star-history.com/#gamenew09/np-purple-storefronts)
+
+## Categories for Storefronts
+> Not every category is used yet, but these will be all the categories once there's a storefront per category.
+
+Smoke Shop
+Caffeine
+Medical
+Surplus
+Electronics
+Hardware & Tools
+Outdoor & Survival
+Automotive
+Sporting Goods
+Agriculture
+Event Supplies
+Jewlery/Valuables
+Materials
+Dispensary
+Restaurant
+Coffee Shop
+Bar
+General

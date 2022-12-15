@@ -53,7 +53,13 @@
 		"latlngarray": [
 			{"lat": -68.417, "lng": -5.596}
 		],
-		"images": []
+		"images": [
+			{
+				"headline": "Outside",
+				"credits": "Elena Crescent",
+				"url": "https://i.imgur.com/CCA81ry.png"
+			}
+		]
 	},
 	{
 		"id": 1003,
@@ -152,7 +158,13 @@
 		"latlngarray": [
 			{"lat": 76.491, "lng": -18.453}
 		],
-		"images": []
+		"images": [
+			{
+				"headline": "Outside",
+				"credits": "Elena Crescent",
+				"url": "https://i.imgur.com/HWbec7o.jpg"
+			}
+		]
 	},
 	{
 		"id": 2003,
@@ -223,7 +235,13 @@
 		"latlngarray": [
 			{"lat": -56.229, "lng": -8.827}
 		],
-		"images": []
+		"images": [
+			{
+				"headline": "Outside",
+				"credits": "Elena Crescent",
+				"url": "https://i.imgur.com/cM5l7Ew.jpg"
+			}
+		]
 	},
 	{
 		"id": 3005,
@@ -238,7 +256,13 @@
 		"latlngarray": [
 			{"lat": -58.492, "lng": -73.643}
 		],
-		"images": []
+		"images": [
+			{
+				"headline": "Outside",
+				"credits": "Elena Crescent",
+				"url": "https://i.imgur.com/fWGkSVE.jpg"
+			}
+		]
 	},
 	{
 		"id": 3006,
@@ -274,7 +298,13 @@
 		"latlngarray": [
 			{"lat": -67.010, "lng": -14.802}
 		],
-		"images": []
+		"images": [
+			{
+				"headline": "Outside",
+				"credits": "Elena Crescent",
+				"url": "https://i.imgur.com/YI9y4cQ.jpg"
+			}
+		]
 	},
 	{
 		"id": 5000,

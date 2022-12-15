@@ -110,16 +110,18 @@ header a.active {
 }
 
 .toggle-visibility:hover {
-	color: #222;
+	color: #444;
 	text-decoration: none;
 }
 
 /*e5cf*/
-.toggle-visibility[data-state="show"]::before{
+.toggle-visibility[data-state="show"]::after{
+	padding-left: 0.25em;
 	font-family: "Material Icons";
 	content: '\e5cf';
 }
-.toggle-visibility[data-state="hide"]::before{
+.toggle-visibility[data-state="hide"]::after{
+	padding-left: 0.25em;
 	font-family: "Material Icons";
 	content: '\e5ce';
 }

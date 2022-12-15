@@ -238,12 +238,26 @@ $(function() {
 				})
 			);
 			$('#typeDetails').hide();
+			$('.toggle-visibility').attr('data-state', 'hide');
 			return this;
 		},
 
 		events: {
 			'change input': 'toggleLocations',
 			'click .details': 'showDetails',
+			'click .toggle-visibility': 'toggleVisibility'
+		},
+
+		toggleVisibility: function(e) {
+			var $e = $(e.currentTarget);
+
+			$e.attr('data-state', function(i, attr) {
+				return attr == "hide" ? "show" : "hide"
+			});
+
+			console.log($e.parent().parent().find("ul").css('display', function(i, visibility) {
+				return (visibility == 'none') ? 'block' : 'none';
+			}));
 		},
 
 		toggleLocations: function(e) {

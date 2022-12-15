@@ -52,7 +52,7 @@
 	<script type="x/template" id="categoriesTemplate">
 		{{#each categories}}
 			<section class="type">
-				<h3>{{name}}</h3>
+				<h3>{{name}} <a href="#" class="toggle-visibility"></a></h3>
 				<ul>
 					{{#each types}}
 						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="{{name}}"> <span class="googleIcon">{{codePointIcon}}</span> {{name}}</label> <a href="#" class="details" data-name="{{name}}"><i class="fa-solid fa-chevron-right"></i></a></li>

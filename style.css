@@ -104,6 +104,25 @@ header a.active {
 .tour #types {
 	display: none;
 }
+.toggle-visibility {
+	color: #000;
+	text-decoration: none;
+}
+
+.toggle-visibility:hover {
+	color: #222;
+	text-decoration: none;
+}
+
+/*e5cf*/
+.toggle-visibility[data-state="show"]::before{
+	font-family: "Material Icons";
+	content: '\e5cf';
+}
+.toggle-visibility[data-state="hide"]::before{
+	font-family: "Material Icons";
+	content: '\e5ce';
+}
 
 .types {
 	position: absolute;

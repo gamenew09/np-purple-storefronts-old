@@ -130,9 +130,7 @@ $(function() {
 			var codePointIcon = '\uea12';
 
 			var catInfo = MapCategories.filter((cat) => cat.name === type)[0];
-			console.log(catInfo);
 			if(catInfo !== undefined) {
-				console.log(catInfo.codePointIcon);
 				// A marker can override its icon by setting the codePointIcon. (don't forget the \u before the codepoint)
 				codePointIcon = this.get('codePointIcon') ?? catInfo.codePointIcon ?? '\uea12';
 			}
@@ -255,9 +253,9 @@ $(function() {
 				return attr == "hide" ? "show" : "hide"
 			});
 
-			console.log($e.parent().parent().find("ul").css('display', function(i, visibility) {
+			$e.parent().parent().find("ul").css('display', function(i, visibility) {
 				return (visibility == 'none') ? 'block' : 'none';
-			}));
+			});
 		},
 
 		toggleLocations: function(e) {
@@ -548,7 +546,6 @@ $(function() {
 		},
 
 		popupLocation: function(location, panTo) {
-			console.log(location);
 			var infoWindow = new google.maps.InfoWindow({
 				content: this.popupTemplate(location.toJSON()),
 			});

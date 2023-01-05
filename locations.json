@@ -1,26 +1,5 @@
 [
 	{
-		"id": 1000,
-		"type": "Automotive",
-		"title": "1 Stop Shop",
-		"notes": "A storefront that sells advanced & regular lockpicks, repair kits, repair toolkits for mechanics, racing harnesses, laptops, radios, and collectibles!",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "0080FF",
-		"fillcolor": "0080FF",
-		"latlngarray": [
-			{"lat": -59.732, "lng": -55.176}
-		],
-		"images": [
-			{
-				"headline": "Frontside of 1 Stop Shop",
-				"credits": "Chris Robin",
-				"darkText": false,
-				"url": "https://i.imgur.com/C9al11n.jpg"
-			}
-		]
-	},
-	{
 		"id": 1001,
 		"type": "Automotive",
 		"title": "The Pit Stop Minimart",

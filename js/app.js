@@ -248,6 +248,7 @@ $(function() {
 		},
 
 		toggleVisibility: function(e) {
+			e.preventDefault();
 			var $e = $(e.currentTarget);
 
 			$e.attr('data-state', function(i, attr) {

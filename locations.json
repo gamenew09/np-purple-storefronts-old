@@ -286,6 +286,23 @@
 		]
 	},
 	{
+		"id": 3007,
+		"type": "Automotive",
+		"title": "Strawbery Gas Station Storefront",
+		"notes": "Offers Blue Sky MedKit, Walkie-Talkie Burner Phones, 3 Day Car Polish, Quality & Disposable Car Parts.",
+		"wiki_link": "",
+		"order": 0,
+		"codePointIcon": "\ue546",
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -69.997, "lng": -6.529}
+		],
+		"images": [
+			
+		]
+	},
+	{
 		"id": 4000,
 		"type": "Smoke Shop",
 		"title": "Hookah Palace",
@@ -339,6 +356,22 @@
 		"fillcolor": "0080FF",
 		"latlngarray": [
 			{"lat": -81.822, "lng": -7.434}
+		],
+		"images": [
+			
+		]
+	},
+	{
+		"id": 8000,
+		"type": "Outdoor & Survival",
+		"title": "Blue Star Outdoors",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -18.413, "lng": -58.516}
 		],
 		"images": [
 			

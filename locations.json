@@ -1,6 +1,5 @@
 [
 	{
-		"id": 1001,
 		"type": "Automotive",
 		"title": "The Pit Stop Minimart",
 		"notes": "A mini-mart that sells Tire Repair Kits, Local Car Parts, Car Polish, Lard Car Polish, First Aid Kits, and Radios!",
@@ -21,7 +20,6 @@
 		]
 	},
 	{
-		"id": 1002,
 		"type": "Automotive",
 		"title": "O'Scotty Auto Parts",
 		"notes": "A small shop that offers Advanced, Regular, Body, and Tire Repair Kits alongside Imported Performance Parts for your vehicle!",
@@ -41,7 +39,6 @@
 		]
 	},
 	{
-		"id": 1003,
 		"type": "Automotive",
 		"title": "Ottos Automotive",
 		"notes": "A tool shop that offers First Aid Kits, Tire Repair Kit, and Body Repair Kits branded in their iconic blue.",
@@ -62,7 +59,6 @@
 		]
 	},
 	{
-		"id": 1004,
 		"type": "Automotive",
 		"title": "Mirror Park Minimart",
 		"notes": "A minimart that offers ERP Radios, Healing Lip Balms, Tire Pumps, Lard Polish, 3 Day Polish, and a limited quantity \"FIRST\" Plate collectible!",
@@ -84,7 +80,6 @@
 		]
 	},
 	{
-		"id": 2000,
 		"type": "Restaurant",
 		"title": "Shinto",
 		"notes": "A Japanese restaurant serving sushi, noodles, sashimi, nigiri, soups, sides, deserts, drinks, and more! You are able to dine in at a table or reserve a private room for eating!",
@@ -105,7 +100,6 @@
 		]
 	},
 	{
-		"id": 2001,
 		"type": "Coffee Shop",
 		"title": "Sugar & Spice",
 		"notes": "A cafe that sells spiced baked goods, drinks, and coffee.",
@@ -126,7 +120,6 @@
 		]
 	}, 
 	{
-		"id": 2002,
 		"type": "Restaurant",
 		"title": "The Mojito Inn",
 		"notes": "A chill tavern offering a multitude of food and drinks.",
@@ -146,7 +139,6 @@
 		]
 	},
 	{
-		"id": 2003,
 		"type": "Coffee Shop",
 		"title": "Sweet Tooth",
 		"notes": "A food establishment that has breakfast items along with some outliers, including, but not limited to, Kebabs, Sandwiches, and Chips.",
@@ -167,7 +159,6 @@
 		]
 	},
 	{
-		"id": 3002,
 		"type": "General",
 		"title": "S&M",
 		"notes": "A BDSM shop that offers handcuffs, masquerade masks, condoms, message oil, feather ticklers, paddles, whips, and flowers for aftercare.",
@@ -181,7 +172,6 @@
 		"images": []
 	},
 	{
-		"id": 3003,
 		"type": "General",
 		"title": "J's Player Card Collection",
 		"notes": "A spot to grab card packs that include your favorite Purple county residents!",
@@ -202,7 +192,6 @@
 		]
 	},
 	{
-		"id": 3004,
 		"type": "Jewelry",
 		"title": "City Gallery",
 		"notes": "Sells Jade Healing Stones and engagement rings, also buys gems sometimes.",
@@ -223,7 +212,6 @@
 		]
 	},
 	{
-		"id": 3005,
 		"type": "General",
 		"title": "Great Ocean Minimart",
 		"notes": "A racing focused storefront selling healing balms, customized radios, and plushies.",
@@ -244,7 +232,6 @@
 		]
 	},
 	{
-		"id": 3006,
 		"type": "Automotive",
 		"title": "Sandy Shores Gas Station Storefront",
 		"notes": "Offers radios, repair kits, and first aid kits on-the-go!",
@@ -265,7 +252,6 @@
 		]
 	},
 	{
-		"id": 3007,
 		"type": "Automotive",
 		"title": "Strawbery Gas Station Storefront",
 		"notes": "Offers Blue Sky MedKit, Walkie-Talkie Burner Phones, 3 Day Car Polish, Quality & Disposable Car Parts.",
@@ -282,7 +268,6 @@
 		]
 	},
 	{
-		"id": 4000,
 		"type": "Smoke Shop",
 		"title": "Hookah Palace",
 		"notes": "A smoking oriented storefront that offers healing Snus, Weighed Hookah Tobacco, and flavored hookahs for stress relief.",
@@ -303,7 +288,6 @@
 		]
 	},
 	{
-		"id": 5000,
 		"type": "Agriculture",
 		"title": "The Grain of Truth",
 		"notes": "A farmer focused shop offering ingredients, coffee, branded Watering Cans, and branded Hoes for farmers!",
@@ -324,7 +308,6 @@
 		]
 	},
 	{
-		"id": 6000,
 		"type": "Materials",
 		"title": "Tom & Hobbler's Containers: A Hobbler's Materials Company",
 		"notes": "Sells recycled materials for customers to use!",
@@ -341,7 +324,6 @@
 		]
 	},
 	{
-		"id": 8000,
 		"type": "Outdoor & Survival",
 		"title": "Blue Star Outdoors",
 		"notes": "",

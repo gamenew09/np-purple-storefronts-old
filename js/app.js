@@ -27,12 +27,12 @@ const categories = [
 		codePointIcon: "\ue325",
 		icon: "radar/radar_bar.png"
 	},
+	*/
 	{
 		name: "Hardware & Tools",
 		codePointIcon: "\uea3c",
 		icon: "radar/radar_bar.png"
 	},
-	*/
 	{
 		name: "Outdoor & Survival",
 		codePointIcon: "\ue50a",

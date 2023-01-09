@@ -194,7 +194,7 @@
 	{
 		"type": "Jewelry",
 		"title": "City Gallery",
-		"notes": "Sells Jade Healing Stones and engagement rings, also buys gems sometimes.",
+		"notes": "A jewlery storefront that sells Jade Healing Stones and cosmetic rings, such as engagement rings. They also can buy gems.",
 		"wiki_link": "",
 		"order": 0,
 		"codePointIcon": "\uead5",
@@ -234,7 +234,7 @@
 	{
 		"type": "Automotive",
 		"title": "Sandy Shores Gas Station Storefront",
-		"notes": "Offers radios, repair kits, and first aid kits on-the-go!",
+		"notes": "A storefront that offers radios, repair kits, and first aid kits on-the-go!",
 		"wiki_link": "",
 		"order": 0,
 		"codePointIcon": "\ue546",
@@ -254,7 +254,7 @@
 	{
 		"type": "Automotive",
 		"title": "Strawbery Gas Station Storefront",
-		"notes": "Offers Blue Sky MedKit, Walkie-Talkie Burner Phones, 3 Day Car Polish, Quality & Disposable Car Parts.",
+		"notes": "A meth-lab inspired storefront that offers Blue Sky MedKit, Walkie-Talkie Burner Phones, 3 Day Car Polish, Quality & Disposable Car Parts.",
 		"wiki_link": "",
 		"order": 0,
 		"codePointIcon": "\ue546",
@@ -310,7 +310,7 @@
 	{
 		"type": "Materials",
 		"title": "Tom & Hobbler's Containers: A Hobbler's Materials Company",
-		"notes": "Sells recycled materials for customers to use!",
+		"notes": "A material company that allows people to quickly buy converted materials in a simplified place.",
 		"wiki_link": "",
 		"order": 0,
 		"codePointIcon": "\ue760",
@@ -326,13 +326,28 @@
 	{
 		"type": "Outdoor & Survival",
 		"title": "Blue Star Outdoors",
-		"notes": "",
+		"notes": "An outdoor themed store that sells peppermint mocha coffee, blue & green lawn chairs, and Umbrellas.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0000FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -18.413, "lng": -58.516}
+		],
+		"images": [
+			
+		]
+	},
+	{
+		"type": "Hardware & Tools",
+		"title": "NG's Hardware Store",
+		"notes": "A hardware store themed around the color orange which sells lockpicks, paint thinner, trowels, heavy cutters, heavy duty drills, and coffee.",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
-			{"lat": -18.413, "lng": -58.516}
+			{"lat": -59.231, "lng": -53.165}
 		],
 		"images": [
 			

@@ -190,9 +190,19 @@ header a.active {
 	opacity: .2;
 }
 
-.types .type input:checked + img {
-	-webkit-filter: grayscale(0);
+.labels-indicator::before {
+	content: '\e9b6';
+}
+
+label input:checked + .labels-indicator::before  {
+	content: '\e892';
+}
+
+.types .type input:checked + span {
 	opacity: 1;
+}
+.types .type input + span {
+	opacity: 0.25;
 }
 
 .tt {

@@ -169,7 +169,13 @@
 		"latlngarray": [
 			{"lat": -70.326, "lng": -5.222}
 		],
-		"images": []
+		"images": [
+			{
+				"headline": "Front",
+				"credits": "Roy Wilson",
+				"url": "https://i.imgur.com/t2IEaVl.jpeg"
+			}
+		]
 	},
 	{
 		"type": "General",
@@ -253,7 +259,7 @@
 	},
 	{
 		"type": "Automotive",
-		"title": "Strawbery Gas Station Storefront",
+		"title": "Strawberry Mini Mart",
 		"notes": "A meth-lab inspired storefront that offers Blue Sky MedKit, Walkie-Talkie Burner Phones, 3 Day Car Polish, Quality & Disposable Car Parts.",
 		"wiki_link": "",
 		"order": 0,
@@ -264,7 +270,11 @@
 			{"lat": -69.997, "lng": -6.529}
 		],
 		"images": [
-			
+			{
+				"headline": "Front",
+				"credits": "Roy Wilson",
+				"url": "https://i.imgur.com/0KerBpt.jpeg"
+			}
 		]
 	},
 	{
@@ -320,7 +330,11 @@
 			{"lat": -81.822, "lng": -7.434}
 		],
 		"images": [
-			
+			{
+				"headline": "Front",
+				"credits": "Roy Wilson",
+				"url": "https://i.imgur.com/0kSDp9R.png"
+			}
 		]
 	},
 	{
@@ -335,7 +349,11 @@
 			{"lat": -18.413, "lng": -58.516}
 		],
 		"images": [
-			
+			{
+				"headline": "Front",
+				"credits": "Roy Wilson",
+				"url": "https://i.imgur.com/vaOvDOS.jpeg"
+			}
 		]
 	},
 	{
@@ -350,7 +368,11 @@
 			{"lat": -59.231, "lng": -53.165}
 		],
 		"images": [
-			
+			{
+				"headline": "Front",
+				"credits": "Roy Wilson",
+				"url": "https://i.imgur.com/ssxCvMZ.jpeg"
+			}
 		]
 	}
 ]

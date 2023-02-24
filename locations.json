@@ -280,10 +280,9 @@
 	{
 		"type": "Smoke Shop",
 		"title": "Hookah Palace",
-		"notes": "A smoking oriented storefront that offers healing Snus, Weighed Hookah Tobacco, and flavored hookahs for stress relief.",
+		"notes": "A smoking oriented storefront that offers healing Snus, Weighed Hookah Tobacco, bongs, and flavored hookahs for stress relief.",
 		"wiki_link": "",
 		"order": 0,
-		"codePointIcon": "\uf205",
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -392,6 +391,127 @@
 				"credits": "Roy Wilson",
 				"url": "https://i.imgur.com/CJBWz37.jpeg"
 			}
+		]
+	},
+	{
+		"type": "Outdoor & Survival",
+		"title": "Vespucci Beach Patrol Department",
+		"notes": "A store specializing in beach related goods, these include VPD healing sunblock, pail & shovels, NPX 200, trowel, and animal plushies.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -72.368, "lng": -53.184}
+		],
+		"images": [
+			
+		]
+	},
+	{
+		"type": "Dispensary",
+		"title": "Dollar Pills",
+		"notes": "A dispensary with direct THC injections and chill pill. They also offer empty pill bottles and caffeinated green liquid, or \"The Tea,\" in a test tube.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -65.500, "lng": -35.177}
+		],
+		"images": [
+			
+		]
+	},
+	{
+		"type": "Automotive",
+		"title": "MackWheels Automotive",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -64.515, "lng": 18.273}
+		],
+		"images": [
+			
+		]
+	},
+	{
+		"type": "Agriculture",
+		"title": "San Andreas Beekeeper Society",
+		"codePointIcon": "\uea1c",
+		"notes": "A nature themed storefront that sells Healing Salves, Beehives, Beeswax, and collectable Beeswax Candles.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": 15.053, "lng": -47.350}
+		],
+		"images": [
+			
+		]
+	},
+	{
+		"type": "Electronics",
+		"title": "The Rat Shack",
+		"notes": "A small electronics shop that sells radios and VPNs.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -58.624, "lng": -54.089}
+		],
+		"images": [
+			
+		]
+	},
+	{
+		"type": "Hardware & Tools",
+		"title": "Nailed It Hardware",
+		"notes": "Sells advanced & regular lock picks, coffee, Drills, Heavy Cutters, Paint Thinner, Heavy Duty Drill, Screwdrivers, Trowels, and the Pail & Shovel.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -70.767, "lng": -47.720}
+		],
+		"images": [
+			
+		]
+	},
+	{
+		"type": "Hardware & Tools",
+		"title": "O'Sullivans Hardware",
+		"notes": "Sells numerous hardware equipment and some general products such as the Trowel, Notepad, Heavy Duty Drill, Hair Tie, Paint Thinner, Advanced & Regular Lock Pick, Drill, Heavy Cutters, Toolbox, Mailbox, and Coffee.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -74.611, "lng": -9.905}
+		],
+		"images": [
+			
+		]
+	},
+	{
+		"type": "Dispensary",
+		"title": "Wake n' Bake",
+		"notes": "Sells the Forget Me Not and Rose Petal joints, Empty Baggies, Daisy Cigarettes, Cigars, High Quality Scales, and Healing Marigold CBD Tinctures.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -72.237, "lng": -12.153}
+		],
+		"images": [
+			
 		]
 	}
 ]

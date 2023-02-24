@@ -22,12 +22,12 @@ const categories = [
 		codePointIcon: "\ue9e0",
 		icon: "radar/radar_bar.png"
 	},
+	*/
 	{
 		name: "Electronics",
 		codePointIcon: "\ue325",
 		icon: "radar/radar_bar.png"
 	},
-	*/
 	{
 		name: "Hardware & Tools",
 		codePointIcon: "\uea3c",
@@ -68,11 +68,11 @@ const categories = [
 		icon: "radar/radar_garage.png",
 		codePointIcon: '\ue760',
 	},
-	/* {
+	{
 		name: "Dispensary",
 		codePointIcon: '\uf205',
 		icon: "radar/radar_hospital.png"
-	}, */
+	},
 	{  // yep
 		name: "Restaurant",
 		icon: "radar/radar_bar.png",
